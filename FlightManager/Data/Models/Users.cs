@@ -17,7 +17,7 @@ namespace FlightManager.Data.Models
 
         public string FamilyName { get; set; }
 
-        public int EGN { get; set; }
+        public long PIN { get; set; }
 
         public string Address { get; set; }
 
