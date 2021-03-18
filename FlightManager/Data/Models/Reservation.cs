@@ -11,7 +11,7 @@ namespace FlightManager.Data.Models
 
         public string SecondName { get; set; }
 
-        public string FamiliName { get; set; }
+        public string FamilyName { get; set; }
 
         public long PIN { get; set; }
 
